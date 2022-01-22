@@ -1,6 +1,6 @@
-#### Hey 👋 Welcome To Taseen's Profile!
+## Hey 👋 Welcome To Taseen's Profile!
 
-## What Do I Do?:
+# What Do I Do?:
   • Honours Computer Science Student at Carleton University
 
   • Specialization: Management and Business System
