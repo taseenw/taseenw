@@ -5,7 +5,7 @@
 
   • In the Specialization: Management and Business System
 
-  • Well versed in many languages; PHP, Python, C, JavaScript, SQL and more!
+  • Well versed in many languages; PHP, Python, C, Java, JavaScript, SQL and more!
   
 ⚠️ My University work can't be shown publically but are avaliable to be reviewed privately ⚠️
 
