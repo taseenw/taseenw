@@ -1,4 +1,4 @@
-# Hey 👋 Welcome To Taseen's Profile!
+# Hi 👋 Welcome To Taseen's Profile!
 
 ## I am:
   • An Honours Computer Science Student at Carleton University
