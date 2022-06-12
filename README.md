@@ -1,4 +1,5 @@
-<img src="https://img.icons8.com/nolan/64/w.png"/><img src="https://img.icons8.com/nolan/64/e.png"/><img src="https://img.icons8.com/nolan/64/l.png"/><img src="https://img.icons8.com/nolan/64/c.png"/><img src="https://img.icons8.com/nolan/64/o.png"/><img src="https://img.icons8.com/nolan/64/m.png"/><img src="https://img.icons8.com/nolan/64/e.png"/><br><br>
+<img src="https://img.icons8.com/nolan/64/w.png"/><img src="https://img.icons8.com/nolan/64/e.png"/><img src="https://img.icons8.com/nolan/64/l.png"/><img src="https://img.icons8.com/nolan/64/c.png"/><img src="https://img.icons8.com/nolan/64/o.png"/><img src="https://img.icons8.com/nolan/64/m.png"/><img src="https://img.icons8.com/nolan/64/e.png"/><br>
+<img src="https://img.icons8.com/nolan/64/t.png"/><img src="https://img.icons8.com/nolan/64/a.png"/><img src="https://img.icons8.com/nolan/64/s.png"/><img src="https://img.icons8.com/nolan/64/e.png"/><img src="https://img.icons8.com/nolan/64/e.png"/><img src="https://img.icons8.com/nolan/64/n.png"/>
 <br><br>
 <br><br>
 
@@ -8,7 +9,6 @@
   • In the Specialization: Management and Business System
 
 ## Tools / Technologies
-<img src="https://img.icons8.com/nolan/64/t.png"/><img src="https://img.icons8.com/nolan/64/a.png"/><img src="https://img.icons8.com/nolan/64/p.png"/><br><br>
 <img src="https://img.icons8.com/nolan/64/python.png"/><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/nolan/64/php.png"/><img src="https://img.icons8.com/nolan/64/javascript.png"/><img src="https://img.icons8.com/nolan/64/c.png"/>
 <img src="https://img.icons8.com/nolan/64/mysql.png"/>
