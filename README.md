@@ -1,6 +1,4 @@
-<img src="https://img.icons8.com/nolan/64/w.png"/><img src="https://img.icons8.com/nolan/64/e.png"/><img src="https://img.icons8.com/nolan/64/l.png"/><img src="https://img.icons8.com/nolan/64/c.png"/><img src="https://img.icons8.com/nolan/64/o.png"/><img src="https://img.icons8.com/nolan/64/m.png"/><img src="https://img.icons8.com/nolan/64/e.png"/> <img src="https://img.icons8.com/nolan/64/t.png"/><img src="https://img.icons8.com/nolan/64/o.png"/>
-
-<br>
+<img src="https://img.icons8.com/nolan/64/w.png"/><img src="https://img.icons8.com/nolan/64/e.png"/><img src="https://img.icons8.com/nolan/64/l.png"/><img src="https://img.icons8.com/nolan/64/c.png"/><img src="https://img.icons8.com/nolan/64/o.png"/><img src="https://img.icons8.com/nolan/64/m.png"/><img src="https://img.icons8.com/nolan/64/e.png"/> <img src="https://img.icons8.com/nolan/64/t.png"/><img src="https://img.icons8.com/nolan/64/o.png"/><br>
 <img src="https://img.icons8.com/nolan/64/t.png"/><img src="https://img.icons8.com/nolan/64/a.png"/><img src="https://img.icons8.com/nolan/64/s.png"/><img src="https://img.icons8.com/nolan/64/e.png"/><img src="https://img.icons8.com/nolan/64/e.png"/><img src="https://img.icons8.com/nolan/64/n.png"/>
 <br><br>
 <br><br>
