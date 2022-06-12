@@ -7,6 +7,5 @@
 <img src="https://img.icons8.com/nolan/64/mysql.png"/>
 <img src="https://img.icons8.com/nolan/64/html-5.png"/>
 
-⚠️ My University work can't be shown publically but are avaliable to be reviewed privately ⚠️
-
+## Links
 [LinkedIn](https://www.linkedin.com/in/taseen-waseq-606b04208/) 
