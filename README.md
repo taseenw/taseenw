@@ -8,4 +8,4 @@
 <img src="https://img.icons8.com/nolan/64/html-5.png"/>
 
 ## Links
-[LinkedIn](https://www.linkedin.com/in/taseen-waseq-606b04208/) 
+<img src="https://img.icons8.com/nolan/64/linkedin-circled.png" href="https://www.linkedin.com/in/taseen-waseq-606b04208/"/>
