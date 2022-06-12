@@ -1,4 +1,7 @@
 # Hi 👋 Welcome To Taseen's Profile!
+<img src="https://img.icons8.com/nolan/64/w.png"/><img src="https://img.icons8.com/nolan/64/e.png"/><img src="https://img.icons8.com/nolan/64/l.png"/><img src="https://img.icons8.com/nolan/64/c.png"/><img src="https://img.icons8.com/nolan/64/o.png"/><img src="https://img.icons8.com/nolan/64/m.png"/><img src="https://img.icons8.com/nolan/64/e.png"/><br><br>
+<br><br>
+<br><br>
 
 ## I am:
   • An Honours Computer Science Student at Carleton University
