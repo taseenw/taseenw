@@ -7,7 +7,9 @@
 
 ## Technologies:
 <img src="https://img.icons8.com/nolan/64/python.png"/>
-
+<img src="https://img.icons8.com/nolan/64/php.png"/>
+<img src="https://img.icons8.com/nolan/64/javascript.png"/>
+<img src="https://img.icons8.com/nolan/64/mysql.png"/>
 
 ⚠️ My University work can't be shown publically but are avaliable to be reviewed privately ⚠️
 
