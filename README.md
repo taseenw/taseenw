@@ -6,7 +6,6 @@
 <img src="https://img.icons8.com/nolan/64/php.png"/><img src="https://img.icons8.com/nolan/64/javascript.png"/><img src="https://img.icons8.com/nolan/64/c.png"/>
 <img src="https://img.icons8.com/nolan/64/mysql.png"/>
 <img src="https://img.icons8.com/nolan/64/html-5.png"/>
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maike-heris-do-amaral-belarmino-643483205/)
+
 ## Links
-<img src="https://img.icons8.com/nolan/64/linkedin-circled.png" href="https://www.linkedin.com/in/taseen-waseq-606b04208/"/>
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/maike-heris-do-amaral-belarmino-643483205/)
