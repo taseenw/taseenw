@@ -1,6 +1,5 @@
 <img src="https://img.icons8.com/nolan/64/t.png"/><img src="https://img.icons8.com/nolan/64/a.png"/><img src="https://img.icons8.com/nolan/64/s.png"/><img src="https://img.icons8.com/nolan/64/e.png"/><img src="https://img.icons8.com/nolan/64/e.png"/><img src="https://img.icons8.com/nolan/64/n.png"/><img src="https://img.icons8.com/nolan/64/s.png"/><img src="https://img.icons8.com/nolan/64/g.png"/><img src="https://img.icons8.com/nolan/64/i.png"/><img src="https://img.icons8.com/nolan/64/t.png"/><img src="https://img.icons8.com/nolan/64/h.png"/><img src="https://img.icons8.com/nolan/64/u.png"/><img src="https://img.icons8.com/nolan/64/b.png"/>
 <br><br>
-<br><br>
 
 ## I am:
   • An Honours Computer Science Student at Carleton University
