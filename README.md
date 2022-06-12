@@ -6,7 +6,7 @@
   • In the Specialization: Management and Business System
 
 ## Technologies:
-  • Well versed in many languages; Java, Python, PHP, C, JavaScript, mySQL and more!
+<img src="https://en.wikipedia.org/wiki/Python_%28programming_language%29" alt="Python" width="460" height="345">
 
 ⚠️ My University work can't be shown publically but are avaliable to be reviewed privately ⚠️
 
