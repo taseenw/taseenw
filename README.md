@@ -6,6 +6,7 @@
   • In the Specialization: Management and Business System
 
 ## Tools / Technologies
+<img src="https://img.icons8.com/nolan/64/t.png"/><img src="https://img.icons8.com/nolan/64/a.png"/><img src="https://img.icons8.com/nolan/64/p.png"/>
 <img src="https://img.icons8.com/nolan/64/python.png"/><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/nolan/64/php.png"/><img src="https://img.icons8.com/nolan/64/javascript.png"/><img src="https://img.icons8.com/nolan/64/c.png"/>
 <img src="https://img.icons8.com/nolan/64/mysql.png"/>
