@@ -4,7 +4,11 @@
   • An Honours Computer Science Student at Carleton University
 
   • In the Specialization: Management and Business System
-
+<style>
+h1{
+  color="red";
+}
+</style>
 <h1 color="red">Technologies:</h1>
 <img src="https://img.icons8.com/nolan/64/python.png"/><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/nolan/64/php.png"/><img src="https://img.icons8.com/nolan/64/javascript.png"/><img src="https://img.icons8.com/nolan/64/c.png"/>
