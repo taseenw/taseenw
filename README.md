@@ -5,7 +5,7 @@
 
   • In the Specialization: Management and Business System
 
-## Technologies:
+<h1 color="red">## Technologies:</h1>
 <img src="https://img.icons8.com/nolan/64/python.png"/><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/nolan/64/php.png"/><img src="https://img.icons8.com/nolan/64/javascript.png"/><img src="https://img.icons8.com/nolan/64/c.png"/>
 <img src="https://img.icons8.com/nolan/64/mysql.png"/>
