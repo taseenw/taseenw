@@ -7,5 +7,5 @@
 <img src="https://img.icons8.com/nolan/64/mysql.png"/>
 <img src="https://img.icons8.com/nolan/64/html-5.png"/>
 
-## Links
+## Social
 [![Linkedin](https://img.icons8.com/nolan/64/linkedin-circled.png)](https://www.linkedin.com/in/taseen-waseq-606b04208/)
