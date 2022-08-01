@@ -9,4 +9,4 @@
 
 ## Social
 [![Linkedin](https://img.icons8.com/nolan/64/linkedin-circled.png)](https://www.linkedin.com/in/taseen-waseq-606b04208/)
-[![YouTube](https://img.icons8.com/nolan/344/youtube-play.png)](https://www.youtube.com/channel/UC4Oalqat4VhD-zmGAA5uvfA/featured)
+[![YouTube](https://img.icons8.com/nolan/2x/youtube-play.png)](https://www.youtube.com/channel/UC4Oalqat4VhD-zmGAA5uvfA/featured)
