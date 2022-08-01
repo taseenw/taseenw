@@ -8,5 +8,5 @@
 <img src="https://img.icons8.com/nolan/64/html-5.png"/>
 
 ## Social
-[![Linkedin](https://img.icons8.com/nolan/64/linkedin-circled.png)](https://www.linkedin.com/in/taseen-waseq-606b04208/)
-[![YouTube](https://img.icons8.com/nolan/344/play-button-circled.png)](https://www.youtube.com/channel/UC4Oalqat4VhD-zmGAA5uvfA/featured)
+[![Linkedin](https://img.icons8.com/nolan/2x/linkedin-circled.png)](https://www.linkedin.com/in/taseen-waseq-606b04208/)
+[![YouTube](https://img.icons8.com/nolan/2x/play-button-circled.png)](https://www.youtube.com/channel/UC4Oalqat4VhD-zmGAA5uvfA/featured)
