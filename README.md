@@ -6,7 +6,6 @@
 <img src="https://img.icons8.com/nolan/64/php.png"/><img src="https://img.icons8.com/nolan/64/javascript.png"/><img src="https://img.icons8.com/nolan/64/c.png"/>
 <img src="https://img.icons8.com/nolan/64/angularjs.png"/>
 <img src="https://img.icons8.com/nolan/64/css-filetype.png"/>
-
 <img src="https://img.icons8.com/nolan/64/mysql.png"/>
 <img src="https://img.icons8.com/nolan/64/html-5.png"/>
 
