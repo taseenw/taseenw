@@ -10,7 +10,7 @@
 
 ## Tools / Technologies
 <img src="https://img.icons8.com/nolan/64/angularjs.png"/>
-<img src="https://img.icons8.com/nolan/64/javascript.png"/>
+<img src="https://img.icons8.com/nolan/64/jquery.png"/>
 
 ## Social
 [![Linkedin](https://img.icons8.com/nolan/2x/linkedin-circled.png)](https://www.linkedin.com/in/taseen-waseq-606b04208/)
