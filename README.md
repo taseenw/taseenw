@@ -7,7 +7,7 @@
 &emsp; 💻 An Honours Computer Science Student at Carleton University
 <br>&emsp; 💼 Specializing in Management and Business Systems
 
-## 🗣️ Reach Out!:
+# 🗣️ Reach Out!:
 &emsp; :email: **Email:** You can reach out by sending an email to me at taseen.waseq@gmail.com 
 <br>&emsp; 🔵 **LinkedIn:** If you would like to learn more about me, I'd be happy to via my [LinkedIn](https://www.linkedin.com/in/taseenw/).
 <br>&emsp; 📄 **Resume:** Feel free to check out my resume [HERE](https://www.taseenw.me/assets/Taseen_Waseq_Resume.pdf).
