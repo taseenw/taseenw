@@ -4,8 +4,8 @@
 <br><br>
 
 ### Currently:
-- I am a Computer Science Student at Carleton University. 
-- I am specializing in Software Engineering and minoring in Business.
+- I am an Honours Computer Science Student at Carleton University. 
+- I am specializing in Management and Business Systems
 
 ### Get In Touch:
 - :email: **Email:** You can reach out by sending an email to me at taseen.waseq@gmail.com 
