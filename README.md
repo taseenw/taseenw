@@ -13,7 +13,7 @@
 <br>&emsp; 📄 **Resume:** Feel free to check out my resume [HERE](https://www.taseenw.me/assets/Taseen_Waseq_Resume.pdf).
 <br>&emsp; 🎥 **YouTube:** Checkout my programming YouTube channel! [YouTube](https://www.youtube.com/channel/UC4Oalqat4VhD-zmGAA5uvfA/)
 
-## Languages
+# Languages
 <img src="https://img.icons8.com/nolan/64/python.png"/><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/nolan/64/php.png"/><img src="https://img.icons8.com/nolan/64/c.png"/><img src="https://img.icons8.com/nolan/64/javascript.png"/>
 <img src="https://img.icons8.com/nolan/64/sql.png"/>
