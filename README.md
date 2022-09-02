@@ -4,14 +4,14 @@
 <br>
 
 ## I am:
-- An Honours Computer Science Student at Carleton University
-- Specializing in Management and Business Systems
+<br> 💻 An Honours Computer Science Student at Carleton University
+<br> 💼 Specializing in Management and Business Systems
 
 ## Reach Out!:
-<br>:email: **Email:** You can reach out by sending an email to me at taseen.waseq@gmail.com 
-<br>🔵 **LinkedIn:** If you would like to learn more about me, I'd be happy to via my [LinkedIn](https://www.linkedin.com/in/taseenw/).
-<br>📄 **Resume:** Feel free to check out my resume [HERE](https://www.taseenw.me/assets/Taseen_Waseq_Resume.pdf).
-<br>🎥 **YouTube:** Checkout my programming YouTube channel! [YouTube](https://www.youtube.com/channel/UC4Oalqat4VhD-zmGAA5uvfA/)
+<br> :email: **Email:** You can reach out by sending an email to me at taseen.waseq@gmail.com 
+<br> 🔵 **LinkedIn:** If you would like to learn more about me, I'd be happy to via my [LinkedIn](https://www.linkedin.com/in/taseenw/).
+<br> 📄 **Resume:** Feel free to check out my resume [HERE](https://www.taseenw.me/assets/Taseen_Waseq_Resume.pdf).
+<br> 🎥 **YouTube:** Checkout my programming YouTube channel! [YouTube](https://www.youtube.com/channel/UC4Oalqat4VhD-zmGAA5uvfA/)
 
 ## Languages
 <img src="https://img.icons8.com/nolan/64/python.png"/><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
