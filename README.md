@@ -20,5 +20,5 @@
 <img src="https://img.icons8.com/nolan/64/html-5.png"/>
 <img src="https://img.icons8.com/nolan/64/css-filetype.png"/>
 
-## Tools / Technologies
+# Tools / Technologies
 <img src="https://img.icons8.com/nolan/64/angularjs.png"/><img src="https://img.icons8.com/nolan/64/mysql.png"/><img src="https://img.icons8.com/nolan/64/git.png"/><img src="https://img.icons8.com/nolan/64/visual-studio.png"/>
