@@ -11,13 +11,13 @@
 <br>&emsp; 🔵 **LinkedIn:** If you would like to learn more about me, I'd be happy to via my [LinkedIn](https://www.linkedin.com/in/taseenw/).
 <br>&emsp; 📄 **Resume:** Feel free to check out my resume [HERE](https://www.taseenw.me/assets/Taseen_Waseq_Resume.pdf).
 <br>&emsp; 🎥 **YouTube:** Checkout my programming YouTube channel! [YouTube](https://www.youtube.com/channel/UC4Oalqat4VhD-zmGAA5uvfA/)
-
+<br>
 # Languages
 <img src="https://img.icons8.com/nolan/64/python.png"/><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/nolan/64/php.png"/><img src="https://img.icons8.com/nolan/64/c.png"/><img src="https://img.icons8.com/nolan/64/javascript.png"/>
 <img src="https://img.icons8.com/nolan/64/sql.png"/>
 <img src="https://img.icons8.com/nolan/64/html-5.png"/>
 <img src="https://img.icons8.com/nolan/64/css-filetype.png"/>
-
+<br>
 # Tools / Technologies
 <img src="https://img.icons8.com/nolan/64/angularjs.png"/><img src="https://img.icons8.com/nolan/64/mysql.png"/><img src="https://img.icons8.com/nolan/64/git.png"/><img src="https://img.icons8.com/nolan/64/visual-studio.png"/>
