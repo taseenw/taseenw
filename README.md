@@ -3,7 +3,7 @@
 </div>
 <br>
 
-## 👋 I am:
+# 👋 I am:
 &emsp; 💻 An Honours Computer Science Student at Carleton University
 <br>&emsp; 💼 Specializing in Management and Business Systems
 
