@@ -21,6 +21,5 @@
 <img src="https://img.icons8.com/nolan/64/angularjs.png"/>
 <img src="https://icons8.com/icon/nolan/64/express-js.png"/>
 
-<br>
 # Tools / Technologies
 <img src="https://img.icons8.com/nolan/64/mysql.png"/><img src="https://img.icons8.com/nolan/64/git.png"/><img src="https://img.icons8.com/nolan/64/visual-studio.png"/>
