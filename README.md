@@ -18,6 +18,9 @@
 <img src="https://img.icons8.com/nolan/64/sql.png"/>
 <img src="https://img.icons8.com/nolan/64/html-5.png"/>
 <img src="https://img.icons8.com/nolan/64/css-filetype.png"/>
+
+<br>
+
 <img src="https://img.icons8.com/nolan/64/angularjs.png"/>
 <img src="https://img.icons8.com/nolan/64/express-js.png"/>
 
