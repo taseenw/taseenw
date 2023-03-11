@@ -14,7 +14,7 @@
 <br>
 # Languages / Frameworks
 <img src="https://img.icons8.com/nolan/64/python.png"/><img src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
-<img src="https://img.icons8.com/nolan/64/php.png"/><img src="https://img.icons8.com/nolan/64/c.png"/><img src="https://icons8.com/icon/59968/c-plus-plus"/>
+<img src="https://img.icons8.com/nolan/64/php.png"/><img src="https://img.icons8.com/nolan/64/c.png"/><img src="https://img.icons8.com/nolan/64/c-plus-plus.png"/>
 
 <img src="https://img.icons8.com/nolan/64/javascript.png"/>
 <img src="https://img.icons8.com/nolan/64/sql.png"/>
