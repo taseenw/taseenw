@@ -20,6 +20,10 @@
 <img src="https://img.icons8.com/nolan/64/html-5.png"/>
 <img src="https://img.icons8.com/nolan/64/css-filetype.png"/>
 
+
+<code><img height="30" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"></code>
+
+
 <br>
 
 <img src="https://img.icons8.com/nolan/64/angularjs.png"/><img src="https://img.icons8.com/nolan/64/express-js.png"/>
