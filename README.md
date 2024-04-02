@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://img.icons8.com/nolan/64/t.png"/><img src="https://img.icons8.com/nolan/64/a.png"/><img src="https://img.icons8.com/nolan/64/s.png"/><img src="https://img.icons8.com/nolan/64/e.png"/><img src="https://img.icons8.com/nolan/64/e.png"/><img src="https://img.icons8.com/nolan/64/n.png"/><br><img src="https://img.icons8.com/nolan/64/w.png"/><img src="https://img.icons8.com/nolan/64/a.png"/><img src="https://img.icons8.com/nolan/64/s.png"/><img src="https://img.icons8.com/nolan/64/e.png"/><img src="https://img.icons8.com/nolan/64/q.png"/>
+<img src="banner"/>
 </div>
 
 # 👋 I am:
