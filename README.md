@@ -6,7 +6,7 @@
 &emsp; 💻 An Honours Computer Science Student at Carleton University
 <br>&emsp; 💼 Specializing in Management and Business Systems
 <br>
-# <img width="30px" margin="0px" src="https://i.pinimg.com/originals/a1/fe/1f/a1fe1f2309a90cde8922858a9c5b527c.gif">  Reach Out!:
+# <img width="30px" margin="0px" src="https://cdn.pixabay.com/animation/2023/06/13/15/12/15-12-30-808_512.gif">  Reach Out!:
 
 &emsp; :email: **Email:** You can reach out by sending an email to me at taseen.waseq@gmail.com 
 <br>&emsp; 🔵 **LinkedIn:** If you would like to learn more about me, I'd be happy to via my [LinkedIn](https://www.linkedin.com/in/taseenw/).
