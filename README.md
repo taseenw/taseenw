@@ -35,7 +35,7 @@
 <code><img height="30" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white"></code>
 
-# Tools
+# Tools / Technologies
 <code><img height="30" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white"></code>
@@ -43,10 +43,3 @@
 <code><img height="30" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"></code>
 <code><img height="30" src="https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)"></code>
-
-<br>
-
-<img src="https://img.icons8.com/nolan/64/angularjs.png"/><img src="https://img.icons8.com/nolan/64/express-js.png"/>
-
-# Tools / Technologies
-<img src="https://img.icons8.com/nolan/64/mysql.png"/><img src="https://img.icons8.com/nolan/64/git.png"/><img src="https://img.icons8.com/nolan/64/visual-studio.png"/>
