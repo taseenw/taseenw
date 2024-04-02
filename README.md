@@ -2,7 +2,7 @@
 <img src="banner.jpg"/>
 </div>
 
-# ![image](https://github.com/taseenw/taseenw/assets/76471599/942a932f-6376-4325-95a8-d5c4965e7e5c)I am:
+# <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> I am:
 &emsp; 💻 An Honours Computer Science Student at Carleton University
 <br>&emsp; 💼 Specializing in Management and Business Systems
 <br>
