@@ -4,7 +4,7 @@
 
 # <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> I am:
 &emsp; 💻 An Honours Computer Science Student at Carleton University
-<br>&emsp; 💼 Specializing in Management and Business Systems
+<br>&emsp; 💼 Autodesk, Dayforce, Trend Micro, Clincove (Startup), Ideabytes
 <br>
 # <img width="30px" margin="0px" src="https://cdn.pixabay.com/animation/2023/06/13/15/12/15-12-34-590_512.gif"> Reach Out!:
 
