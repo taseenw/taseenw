@@ -8,8 +8,8 @@
 <br>
 # <img width="30px" margin="0px" src="https://cdn.pixabay.com/animation/2023/06/13/15/12/15-12-34-590_512.gif"> Reach Out!:
 
-&emsp; :email: **Email:** You can reach out by sending an email to me at taseen.waseq@gmail.com 
-<br>&emsp; 🔵 **LinkedIn:** If you would like to learn more about me, I'd be happy to via my [LinkedIn](https://www.linkedin.com/in/taseenw/).
+&emsp; :email: **Email:** You can reach out at taseen.waseq@gmail.com 
+<br>&emsp; 🔵 **LinkedIn:** Wanna learn more about me? Checkout my [LinkedIn](https://www.linkedin.com/in/taseenw/).
 <br>&emsp; 📄 **Resume:** Feel free to check out my resume [HERE](https://taseenw.github.io/Personal-Portfolio/assets/Taseen_W_Resume.pdf).
 <br>
 
