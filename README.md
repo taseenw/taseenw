@@ -3,7 +3,7 @@
 </div>
 
 # <img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"> I am:
-&emsp; 💻 CS Student and Teaching Assistant @ Carleton University
+&emsp; 💻 CS Graduate and Teaching Assistant @ Carleton University
 <br>&emsp; 💼 Prev @ Kinaxis, Autodesk, Dayforce, Trend Micro, Clincove (Startup), Ideabytes
 <br>
 # <img width="30px" margin="0px" src="https://cdn.pixabay.com/animation/2023/06/13/15/12/15-12-34-590_512.gif"> Reach Out!:
